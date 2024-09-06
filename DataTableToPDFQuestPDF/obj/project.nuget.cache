@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SddgbS0Eqp0=",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022\\DataTableToPDF\\DataTableToPDFQuestPDF\\DataTableToPDFQuestPDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lai22\\.nuget\\packages\\questpdf\\2024.7.3\\questpdf.2024.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
